@@ -1,0 +1,48 @@
+.CardContainer {
+  width: 90%;
+  margin: auto;
+}
+.slick-prev {
+  background-color: gray;
+}
+.slick-next {
+    background-color: gray;
+}
+/* .CardMain {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  border: 1px solid blue;
+} */
+.CardWrapper {
+  border-radius: 7px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  width: 320px;
+  height: 348px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* padding: 20px 0px; */
+  margin: 20px auto;
+
+}
+.CardBox {
+  /* border: 1px solid; */
+  width: 290px;
+  height: 320px;
+}
+.ImgDiv {
+  width: 290px;
+  height: 210px;
+  /* border: 1px solid red; */
+}
+.ImgDiv img{
+    width: 289px;
+    height: 209px;
+}
+
+.TITLE {
+  width: 145px;
+  margin-top: 8px;
+}
